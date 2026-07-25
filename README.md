@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/shampatil23/DsaPrograms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shampatil23/DsaPrograms/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shampatil23/DsaPrograms/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shampatil23/DsaPrograms/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
