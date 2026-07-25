@@ -10,15 +10,15 @@ class Solution {
 
         HashSet<Integer> set = new HashSet<>();
 
-        // Insert all elements into HashSet
+        
         for (int num : nums) {
             set.add(num);
         }
 
-        // Traverse the set
+   
         for (int it : set) {
 
-            // Check if it is the starting element of a sequence
+            
             if (!set.contains(it - 1)) {
 
                 int cnt = 1;
