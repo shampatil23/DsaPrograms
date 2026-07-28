@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shampatil23/DsaPrograms/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
