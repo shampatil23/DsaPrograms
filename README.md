@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shampatil23/DsaPrograms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shampatil23/DsaPrograms/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
 ## Matrix
