@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shampatil23/DsaPrograms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shampatil23/DsaPrograms/tree/master/0643-maximum-average-subarray-i) |
@@ -84,10 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shampatil23/DsaPrograms/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shampatil23/DsaPrograms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
