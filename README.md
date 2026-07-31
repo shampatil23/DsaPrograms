@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shampatil23/DsaPrograms/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shampatil23/DsaPrograms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shampatil23/DsaPrograms/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shampatil23/DsaPrograms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/shampatil23/DsaPrograms/tree/master/0367-valid-perfect-square) |
