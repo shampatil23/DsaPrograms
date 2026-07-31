@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shampatil23/DsaPrograms/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/shampatil23/DsaPrograms/tree/master/0905-sort-array-by-parity) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shampatil23/DsaPrograms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
