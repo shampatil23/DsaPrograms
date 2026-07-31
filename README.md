@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shampatil23/DsaPrograms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shampatil23/DsaPrograms/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shampatil23/DsaPrograms/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shampatil23/DsaPrograms/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/shampatil23/DsaPrograms/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shampatil23/DsaPrograms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
