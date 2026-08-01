@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shampatil23/DsaPrograms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shampatil23/DsaPrograms/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shampatil23/DsaPrograms/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shampatil23/DsaPrograms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shampatil23/DsaPrograms/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/shampatil23/DsaPrograms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0922-sort-array-by-parity-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shampatil23/DsaPrograms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shampatil23/DsaPrograms/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shampatil23/DsaPrograms/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/shampatil23/DsaPrograms/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/shampatil23/DsaPrograms/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
