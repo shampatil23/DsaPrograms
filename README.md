@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shampatil23/DsaPrograms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shampatil23/DsaPrograms/tree/master/1732-find-the-highest-altitude) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shampatil23/DsaPrograms/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/shampatil23/DsaPrograms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shampatil23/DsaPrograms/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shampatil23/DsaPrograms/tree/master/0054-spiral-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shampatil23/DsaPrograms/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
 | ------- |
