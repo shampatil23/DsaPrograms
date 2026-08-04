@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/shampatil23/DsaPrograms/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/shampatil23/DsaPrograms/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shampatil23/DsaPrograms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3731-find-missing-elements](https://github.com/shampatil23/DsaPrograms/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shampatil23/DsaPrograms/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/shampatil23/DsaPrograms/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shampatil23/DsaPrograms/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/shampatil23/DsaPrograms/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
