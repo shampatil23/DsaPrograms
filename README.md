@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shampatil23/DsaPrograms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shampatil23/DsaPrograms/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shampatil23/DsaPrograms/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shampatil23/DsaPrograms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shampatil23/DsaPrograms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shampatil23/DsaPrograms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shampatil23/DsaPrograms/tree/master/0205-isomorphic-strings) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shampatil23/DsaPrograms/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shampatil23/DsaPrograms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
