@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shampatil23/DsaPrograms/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shampatil23/DsaPrograms/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/shampatil23/DsaPrograms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shampatil23/DsaPrograms/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/shampatil23/DsaPrograms/tree/master/1903-largest-odd-number-in-string) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shampatil23/DsaPrograms/tree/master/0050-powx-n) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shampatil23/DsaPrograms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
