@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shampatil23/DsaPrograms/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shampatil23/DsaPrograms/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shampatil23/DsaPrograms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shampatil23/DsaPrograms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shampatil23/DsaPrograms/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/shampatil23/DsaPrograms/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shampatil23/DsaPrograms/tree/master/1406-stone-game-iii) |
 ## Game Theory
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shampatil23/DsaPrograms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
