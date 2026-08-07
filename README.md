@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shampatil23/DsaPrograms/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shampatil23/DsaPrograms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shampatil23/DsaPrograms/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shampatil23/DsaPrograms/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shampatil23/DsaPrograms/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shampatil23/DsaPrograms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/shampatil23/DsaPrograms/tree/master/0290-word-pattern) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shampatil23/DsaPrograms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shampatil23/DsaPrograms/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shampatil23/DsaPrograms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
