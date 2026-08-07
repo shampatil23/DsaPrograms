@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shampatil23/DsaPrograms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shampatil23/DsaPrograms/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shampatil23/DsaPrograms/tree/master/0290-word-pattern) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shampatil23/DsaPrograms/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shampatil23/DsaPrograms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shampatil23/DsaPrograms/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shampatil23/DsaPrograms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0922-sort-array-by-parity-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shampatil23/DsaPrograms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shampatil23/DsaPrograms/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shampatil23/DsaPrograms/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shampatil23/DsaPrograms/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shampatil23/DsaPrograms/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/shampatil23/DsaPrograms/tree/master/0796-rotate-string) |
