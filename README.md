@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shampatil23/DsaPrograms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shampatil23/DsaPrograms/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/shampatil23/DsaPrograms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shampatil23/DsaPrograms/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shampatil23/DsaPrograms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shampatil23/DsaPrograms/tree/master/0877-stone-game) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/shampatil23/DsaPrograms/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/shampatil23/DsaPrograms/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/shampatil23/DsaPrograms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shampatil23/DsaPrograms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shampatil23/DsaPrograms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shampatil23/DsaPrograms/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/shampatil23/DsaPrograms/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shampatil23/DsaPrograms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shampatil23/DsaPrograms/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shampatil23/DsaPrograms/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/shampatil23/DsaPrograms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shampatil23/DsaPrograms/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shampatil23/DsaPrograms/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/shampatil23/DsaPrograms/tree/master/1732-find-the-highest-altitude) |
