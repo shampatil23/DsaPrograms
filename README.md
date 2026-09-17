@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shampatil23/DsaPrograms/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shampatil23/DsaPrograms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shampatil23/DsaPrograms/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shampatil23/DsaPrograms/tree/master/0066-plus-one) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shampatil23/DsaPrograms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/shampatil23/DsaPrograms/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shampatil23/DsaPrograms/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shampatil23/DsaPrograms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shampatil23/DsaPrograms/tree/master/0125-valid-palindrome) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/shampatil23/DsaPrograms/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shampatil23/DsaPrograms/tree/master/1406-stone-game-iii) |
 ## Game Theory
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/shampatil23/DsaPrograms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shampatil23/DsaPrograms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -252,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shampatil23/DsaPrograms/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
