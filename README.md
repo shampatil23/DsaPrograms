@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shampatil23/DsaPrograms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shampatil23/DsaPrograms/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shampatil23/DsaPrograms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shampatil23/DsaPrograms/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shampatil23/DsaPrograms/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shampatil23/DsaPrograms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shampatil23/DsaPrograms/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/shampatil23/DsaPrograms/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shampatil23/DsaPrograms/tree/master/1406-stone-game-iii) |
 ## Game Theory
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shampatil23/DsaPrograms/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shampatil23/DsaPrograms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
