@@ -163,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shampatil23/DsaPrograms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shampatil23/DsaPrograms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shampatil23/DsaPrograms/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/shampatil23/DsaPrograms/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shampatil23/DsaPrograms/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/shampatil23/DsaPrograms/tree/master/1512-number-of-good-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/shampatil23/DsaPrograms/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
